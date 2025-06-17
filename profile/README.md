@@ -14,7 +14,7 @@ A wellness app crafted for you. Personalized overviews, instant product scanning
 This is the official GitHub organization behind **Ofitoo** — a full-stack mobile and web application designed for calorie counting, healthy habit tracking, and workout planning.  
 Our mission is to build a modern, open-source wellness platform that empowers users to take control of their health.
 
-We focus on creating practical tools in the health & wellness domain, using modern technologies and encouraging collaboration from developers, designers, and contributors.
+We focus on creating practical tools in the health & wellness domain, using modern technologies.
 
 Key features include:
 - Calorie and macronutrient tracking  
